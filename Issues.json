@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "title": "Bug Report",
     "user": {
       "login": "alice"
     },
@@ -18,6 +19,7 @@
   },
   {
     "id": 2,
+    "title": "Doc Update",
     "user": {
       "login": "charlie"
     },
@@ -31,6 +33,7 @@
   },
   {
     "id": 3,
+    "title": "New Feature",
     "user": {
       "login": "dave"
     },
@@ -51,6 +54,7 @@
   },
   {
     "id": 4,
+    "title": "User Question",
     "user": {
       "login": "grace"
     },
@@ -68,6 +72,7 @@
   },
   {
     "id": 5,
+    "title": "Bug Help",
     "user": {
       "login": "ivy"
     },
@@ -84,6 +89,7 @@
   },
   {
     "id": 6,
+    "title": "Urgent Fix",
     "user": {
       "login": "jack"
     },
@@ -104,6 +110,7 @@
   },
   {
     "id": 7,
+    "title": "Team Discussion",
     "user": {
       "login": "leo"
     },
@@ -124,6 +131,7 @@
   },
   {
     "id": 8,
+    "title": "Wontfix Question",
     "user": {
       "login": "oscar"
     },
@@ -140,6 +148,7 @@
   },
   {
     "id": 9,
+    "title": "High Bug",
     "user": {
       "login": "peggy"
     },
@@ -160,6 +169,7 @@
   },
   {
     "id": 10,
+    "title": "Feature Help",
     "user": {
       "login": "rose"
     },
