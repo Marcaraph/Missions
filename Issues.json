@@ -15,7 +15,9 @@
         "name": "bug"
       }
     ],
-    "state": "open"
+    "state": "open",
+    "description": "Un problème a été rencontré dans la fonctionnalité X. Les utilisateurs signalent que la fonctionnalité ne fonctionne pas comme prévu.",
+    "date": "2024-08-10"
   },
   {
     "id": 2,
@@ -29,7 +31,9 @@
         "name": "documentation"
       }
     ],
-    "state": "closed"
+    "state": "closed",
+    "description": "La documentation a été mise à jour pour refléter les derniers changements dans l'API.",
+    "date": "2024-08-09"
   },
   {
     "id": 3,
@@ -50,7 +54,9 @@
         "name": "enhancement"
       }
     ],
-    "state": "open"
+    "state": "open",
+    "description": "Ajouter une nouvelle fonctionnalité qui permet aux utilisateurs de personnaliser leur tableau de bord.",
+    "date": "2024-08-08"
   },
   {
     "id": 4,
@@ -68,7 +74,9 @@
         "name": "question"
       }
     ],
-    "state": "closed"
+    "state": "closed",
+    "description": "Une question de l'utilisateur concernant les permissions des rôles dans le système.",
+    "date": "2024-08-07"
   },
   {
     "id": 5,
@@ -85,7 +93,9 @@
         "name": "help wanted"
       }
     ],
-    "state": "open"
+    "state": "open",
+    "description": "Un bug a été signalé dans la fonction de recherche. Nous avons besoin d'aide pour le résoudre.",
+    "date": "2024-08-06"
   },
   {
     "id": 6,
@@ -106,7 +116,9 @@
         "name": "urgent"
       }
     ],
-    "state": "closed"
+    "state": "closed",
+    "description": "Correction urgente nécessaire pour un problème de sécurité critique.",
+    "date": "2024-08-05"
   },
   {
     "id": 7,
@@ -127,7 +139,9 @@
         "name": "discussion"
       }
     ],
-    "state": "open"
+    "state": "open",
+    "description": "Discussion d'équipe sur les nouvelles fonctionnalités et les objectifs du prochain trimestre.",
+    "date": "2024-08-04"
   },
   {
     "id": 8,
@@ -144,7 +158,9 @@
         "name": "wontfix"
       }
     ],
-    "state": "closed"
+    "state": "closed",
+    "description": "La question posée a été examinée et il a été décidé de ne pas résoudre ce problème.",
+    "date": "2024-08-03"
   },
   {
     "id": 9,
@@ -165,7 +181,9 @@
         "name": "priority high"
       }
     ],
-    "state": "open"
+    "state": "open",
+    "description": "Un bug critique a été signalé et nécessite une attention immédiate.",
+    "date": "2024-08-02"
   },
   {
     "id": 10,
@@ -192,6 +210,8 @@
         "name": "help wanted"
       }
     ],
-    "state": "closed"
+    "state": "closed",
+    "description": "Assistance requise pour la mise en œuvre d'une nouvelle fonctionnalité dans l'application.",
+    "date": "2024-08-01"
   }
 ]
