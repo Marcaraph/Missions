@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "number": 1,
     "title": "Bug Report",
     "user": {
       "login": "alice"
@@ -20,7 +20,7 @@
     "date": "2024-08-10"
   },
   {
-    "id": 2,
+    "number": 2,
     "title": "Doc Update",
     "user": {
       "login": "charlie"
@@ -36,7 +36,7 @@
     "date": "2024-08-09"
   },
   {
-    "id": 3,
+    "number": 3,
     "title": "New Feature",
     "user": {
       "login": "dave"
@@ -59,7 +59,7 @@
     "date": "2024-08-08"
   },
   {
-    "id": 4,
+    "number": 4,
     "title": "User Question",
     "user": {
       "login": "grace"
@@ -79,7 +79,7 @@
     "date": "2024-08-07"
   },
   {
-    "id": 5,
+    "number": 5,
     "title": "Bug Help",
     "user": {
       "login": "ivy"
@@ -98,7 +98,7 @@
     "date": "2024-08-06"
   },
   {
-    "id": 6,
+    "number": 6,
     "title": "Urgent Fix",
     "user": {
       "login": "jack"
@@ -121,7 +121,7 @@
     "date": "2024-08-05"
   },
   {
-    "id": 7,
+    "number": 7,
     "title": "Team Discussion",
     "user": {
       "login": "leo"
@@ -144,7 +144,7 @@
     "date": "2024-08-04"
   },
   {
-    "id": 8,
+    "number": 8,
     "title": "Wontfix Question",
     "user": {
       "login": "oscar"
@@ -163,7 +163,7 @@
     "date": "2024-08-03"
   },
   {
-    "id": 9,
+    "number": 9,
     "title": "High Bug",
     "user": {
       "login": "peggy"
@@ -186,7 +186,7 @@
     "date": "2024-08-02"
   },
   {
-    "id": 10,
+    "number": 10,
     "title": "Feature Help",
     "user": {
       "login": "rose"
